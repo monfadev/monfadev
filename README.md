@@ -1,13 +1,9 @@
-### Hi there 👋
-
-<!--
-**monfauzi/monfauzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋 , I'm Mohamad Noor Fauzi!
 
 Here are some ideas to get you started:
 
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me: mfaauzii@gmail.com
--->
 
 ### Connect with me:
 
